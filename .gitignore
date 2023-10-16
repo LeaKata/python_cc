@@ -1,0 +1,5 @@
+# venv
+.pcc_venv/
+
+# MacOS
+.DS_Store
